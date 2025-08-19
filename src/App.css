@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+
+.height_of_logo{
+  height:5vh;
+}
+
+
+.login-form-container{
+ 
+  height: 100vh;
+  width:100vw;
+}
+
